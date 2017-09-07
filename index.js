@@ -7,3 +7,5 @@ console.log(chalk.yellow('Happy') + chalk.bgMagenta(' Birthday') + chalk.yellow(
 console.log((''));
 console.log(chalk.green('Why did the programmer quit his job?'));
 console.log(chalk.red('Because he didnt get arrays!'));
+console.log((''));
+console.log(chalk.bold.underline.magenta.bgWhite('Checked in from home PC'));
